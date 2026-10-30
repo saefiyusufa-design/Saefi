@@ -1,0 +1,6 @@
+{
+  "name": "Aegis: Disaster Mitigation Simulator",
+  "description": "Interactive disaster risk reduction and mitigation game for Grade 11 science students. Simulate earthquakes, tsunamis, floods, and wildfires with real DRRM mechanics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
